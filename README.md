@@ -3,6 +3,8 @@ We build our own [U-Net](https://arxiv.org/abs/1505.04597), a type of CNN design
 
 ![Example of a segmented image](images/carseg.png)
 
+I did this project in the [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+
 ### Dataset
 We have 1060 pictures of road, such as what would be seen by a camera on a self-driving car, in two different forms: RGB images and mask images. The mask images represent the true segmentation using different colors assigned to each pixel based on the object class of the pixel. The figure below shows an example of such two images for one picture.
 
